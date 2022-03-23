@@ -1,3 +1,3 @@
-# 🅿️ converter
- scans a  str input and replaces a "P" or "p" instance with 🅿️ 
+# 🅿️ converter 
+ replaces a str input with occurrences of "P" or "p" instance with 🅿️ 
 # inspired by: Kunal 
